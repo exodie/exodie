@@ -4,7 +4,3 @@
 - 🔭 I’m currently working on **remote search**
 - 🌱 I’m currently learning **Volga Region State University of Telecommunications and Informatics**
 - 🤝 I’m looking for help with **js/ts**
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=exodie&show_icons=true&locale=en&layout=compact" alt="exodie" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=exodie&show_icons=true&locale=en" alt="exodie" /></p>
